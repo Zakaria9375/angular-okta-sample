@@ -1,0 +1,10 @@
+{
+  "domain": "dev-zqi0aizss6zf41fe.us.auth0.com",
+  "clientId": "fbzawmoxVPfa5r5vVzTAfjTJNmlRoqaE",
+  "authorizationParams": {
+    "audience": "YOUR_API_IDENTIFIER"
+  },
+  "apiUri": "http://localhost:8080",
+  "appUri": "https://za-okta-test.netlify.app",
+  "errorPath": "/error"
+}
