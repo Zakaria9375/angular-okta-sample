@@ -4,7 +4,7 @@
   "authorizationParams": {
     "audience": "YOUR_API_IDENTIFIER"
   },
-  "apiUri": "http://localhost:8080",
+  "apiUri": "https://za-okta-test.netlify.app",
   "appUri": "https://za-okta-test.netlify.app",
   "errorPath": "/error"
 }
