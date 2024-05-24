@@ -2,7 +2,7 @@
   "domain": "dev-zqi0aizss6zf41fe.us.auth0.com",
   "clientId": "fbzawmoxVPfa5r5vVzTAfjTJNmlRoqaE",
   "authorizationParams": {
-    "audience": "{yourApiIdentifier}"
+    "audience": ""
   },
   "apiUri": "http://localhost:3001",
   "appUri": "http://localhost:4200",
